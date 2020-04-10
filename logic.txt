@@ -1,4 +1,4 @@
 This below statement is not true.
 The above statement is true.
 
-p => q
+implication: p => q
