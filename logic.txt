@@ -2,3 +2,4 @@ This below statement is not true.
 The above statement is true.
 
 implication: p => q <=> ~p or q
+converse: q => p
