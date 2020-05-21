@@ -2,3 +2,4 @@ schnauzer
 golden retriever
 poodle
 schnoodle
+labrador
